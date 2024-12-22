@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351808083112",
+    "project_id": "english-listening-2a899",
+    "storage_bucket": "english-listening-2a899.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351808083112:android:50c5c749e4d51994ecde9d",
+        "android_client_info": {
+          "package_name": "com.fk470.english_listening"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfGlGSXH2SxXY6USpIPjAlnHk5KoT9ynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
